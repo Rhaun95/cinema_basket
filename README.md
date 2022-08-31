@@ -14,36 +14,28 @@ React
     - 장바구니 목록 확인
 
 ### **BookingHome.js**
+<img width="200" src="https://user-images.githubusercontent.com/105895293/187582734-7c80bc51-9127-4402-8f61-01e2a59d3e0c.png">
 
-![BookingHome.js](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23c268f0-7390-4d3e-b88d-dd218edbbd2e/Untitled.png)
-
-BookingHome.js
 
 ### **Booking.js**
-
-![Booking.js](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4828fea6-9491-409f-b518-bb26d1351664/Untitled.png)
-
-Booking.js
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88772a71-acb0-4fb5-a59b-d13ce0b3aa80/Untitled.png)
-
+<div>
+    <img width="350" src="https://user-images.githubusercontent.com/105895293/187583383-a80abee5-ab93-40d1-ab38-9d6c7a59e9f5.png">
+    <img width="350" src="https://user-images.githubusercontent.com/105895293/187583662-7cba0296-cae2-41c9-aab2-8f33b19ffc54.png">
+</div>
 - 영화/상영관/날짜/시간대 선택후 좌석을 고르러 이동한다
 - 콘솔에는 전 페이지에서 선택한 값을 담은 객체가 출력되있다.
 
 ### **SeatForm.js**
-
-![SeatForm.js](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2556b6d3-1b82-4fe6-a81f-f6c36a46e45e/Untitled.png)
-
-SeatForm.js
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b41f74a-c688-4ee8-b4fc-c6d75a12c3fe/Untitled.png)
-
+<div>
+    <img width="350" src="https://user-images.githubusercontent.com/105895293/187583397-465c2c6c-96b1-4eef-979b-63d947703090.png">
+    <img width="350" src="https://user-images.githubusercontent.com/105895293/187583667-4aa7d984-cf5e-4165-9233-c68fafa95eee.png">
+</div>
 - 좌석선택후 화면에는 없지만 장바구니 이동 버튼이 있다.
 - 오른쪽에는 좌석이 추가된 객체를 보여준다. 여기서 보듯이 첫번째 선택이 무시되어 좌석이 두개만 찍힌게 보인다. 추후에 개선할 것이다.
 
 ### **Basket.js**
 
-![Basket.js](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5f52057-667f-4795-9808-47b4ee14a003/Untitled.png)
+<img width="400" src="https://user-images.githubusercontent.com/105895293/187583406-78c01e9d-9572-4048-a04e-1ef6388825ee.png">
 
 Basket.js
 
